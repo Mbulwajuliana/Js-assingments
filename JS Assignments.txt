@@ -1,0 +1,12 @@
+function Onlineshopping(){
+     Account details()
+     Login()
+     Select Item()
+     Add item to cart()
+     Mode of payment()
+     Payment informatin()
+     Transaction() 
+     Confirmation()
+    }
+   Onlineshopping()
+   
